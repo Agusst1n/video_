@@ -496,19 +496,19 @@ video {
   .video_container_desc{
     width: 100%;
     height:500px;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
   }
   .video_repro_titleContain{
     display: flex;
     height: 200px;
     width: 100%;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
   }
   .video_reproducido_desc{
     display: flex;
     height: 300px;
     width: 100%;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
   }
   .video_buttons{
     left: 0;
@@ -594,3 +594,5 @@ video {
   }
   
 }
+
+/*outline*/
